@@ -4,7 +4,7 @@ import csv
 
 
 
-openai.api_key="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"
+openai.api_key="your API"
 
 # prompt = "The following is an abstract from a scientific paper. \n\nThe user want to extract the keywords related to autism. Can you generate a list of keywords\n\n"
 
